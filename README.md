@@ -2,8 +2,8 @@
 
 ## SOTA Fine-tuned weights
 If you want to skip the fine-tuning step and just want the retinal FM vision weights resulting from our fine-tuning scheme:  
-Fine-tuned weights for RETFound: Will be released upon acceptance.  
-Fine-tuned weights for VisionFM: Will be released upon acceptance.
+** Fine-tuned weights for RETFound **: Will be released upon acceptance.  
+** Fine-tuned weights for VisionFM **: Will be released upon acceptance.
 
 
 ## Fine-tuning
