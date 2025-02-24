@@ -1,4 +1,4 @@
-# REREAD: An Efficient Vision-Language Refinement Scheme for Medical Foundation Models
+# REREAD: An Efficient Vision-Language Refinement schEme foR mEdical foundAtion moDels
 
 ## SOTA Fine-tuned weights
 If you want to skip the fine-tuning step and just want the retinal FM vision weights resulting from our fine-tuning scheme:  
@@ -9,13 +9,13 @@ If you want to skip the fine-tuning step and just want the retinal FM vision wei
 ## Fine-tuning
 If you want to run our fine-tuning scheme on your vision model:
 
-Navigate into Fast-tunerFM/
+Navigate into REREAD/
 
-Create a new virtual environment in Fast-tunerFM/ and install requirements.txt
+Create a new virtual environment in REREAD/ and install requirements.txt
 
 Text encoder weights: Download BERT weights here and put them under Fast-tunerFM/pretrained_weights/:   Will be released upon acceptance.
 
-Vision encoder weights: Put your vision model in Fast-tunerFM/  
+Vision encoder weights: Put your vision model in REREAD/  
 
 Our in-house image-text training data is private so you will need to use your own. Edit the dataloader in Fast-tunerFM/ImageCaptionDataset.py accordingly. __getitem__ should return a list consisting of two elements: an image (torch tensor) and a report (string).
 
