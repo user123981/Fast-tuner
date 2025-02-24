@@ -13,11 +13,11 @@ Navigate into REREAD/
 
 Create a new virtual environment in REREAD/ and install requirements.txt
 
-Text encoder weights: Download BERT weights here and put them under Fast-tunerFM/pretrained_weights/:   Will be released upon acceptance.
+Text encoder weights: Download BERT weights here and put them under REREAD/pretrained_weights/:   Will be released upon acceptance.
 
 Vision encoder weights: Put your vision model in REREAD/  
 
-Our in-house image-text training data is private so you will need to use your own. Edit the dataloader in Fast-tunerFM/ImageCaptionDataset.py accordingly. __getitem__ should return a list consisting of two elements: an image (torch tensor) and a report (string).
+Our in-house image-text training data is private so you will need to use your own. Edit the dataloader in REREAD/ImageCaptionDataset.py accordingly. __getitem__ should return a list consisting of two elements: an image (torch tensor) and a report (string).
 
 Then in the command line run:
 ```sh
