@@ -1,4 +1,4 @@
-# Fast-tunerFM: An Efficient Vision-Language Fine-tuning Scheme for Medical Foundation Models
+# REREAD: An Efficient Vision-Language Refinement Scheme for Medical Foundation Models
 
 ## SOTA Fine-tuned weights
 If you want to skip the fine-tuning step and just want the retinal FM vision weights resulting from our fine-tuning scheme:  
