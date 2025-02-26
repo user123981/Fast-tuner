@@ -1,4 +1,4 @@
-# ReRead: An Efficient Vision-Language <ins>R</ins>efinement sch<ins>E</ins>me for <ins>RE</ins>tinal found<ins>A</ins>tion mo<ins>D</ins>els
+# ReRead: An Efficient Vision-Language <ins>RE</ins>finement scheme for <ins>RE</ins>tinal found<ins>A</ins>tion mo<ins>D</ins>els
 
 ## SOTA Fine-tuned weights
 If you want to skip the fine-tuning step and just want the retinal FM vision weights resulting from our fine-tuning scheme:  
